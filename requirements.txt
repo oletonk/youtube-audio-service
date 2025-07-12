@@ -1,4 +1,4 @@
 Flask==2.3.3
-yt-dlp==2023.9.24
+yt-dlp>=2024.1.1
 Werkzeug==2.3.7
 gunicorn==21.2.0
